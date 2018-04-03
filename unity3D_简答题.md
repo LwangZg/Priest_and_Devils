@@ -96,3 +96,7 @@ public class Rotate : MonoBehaviour {
 ​	如果要显示行星运行的轨迹，则要为每个行星添加trailer render的组件。其中Time为轨迹持续时间，Width为轨迹粗细程度。
 
 ![](img/transform.png)
+
+##### 成品图
+
+![](img/solar_result.png)
