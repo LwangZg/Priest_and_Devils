@@ -66,7 +66,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 ​	将星球的图片直接拖到物体上。
 
-![](C:\Users\79860\Desktop\TIM截图20180402173227.png)
+![solar](img/solar.png)
 
 
 
@@ -95,4 +95,4 @@ public class Rotate : MonoBehaviour {
 
 ​	如果要显示行星运行的轨迹，则要为每个行星添加trailer render的组件。其中Time为轨迹持续时间，Width为轨迹粗细程度。
 
-![](C:\Users\79860\Desktop\TIM截图20180402174907.png)
+![](img/transform.png)

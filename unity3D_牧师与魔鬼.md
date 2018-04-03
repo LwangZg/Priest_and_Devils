@@ -2,7 +2,7 @@
 
 球体代表牧师，正方体代表魔鬼。
 
-![](C:\Users\79860\Desktop\TIM截图20180403170431.png)
+![sample](img/PnD.png)
 
 
 
